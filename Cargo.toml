@@ -1,0 +1,8 @@
+[package]
+name = "actix-background-worker"
+version = "0.1.0"
+authors = ["Sam Stelfox <sstelfox@bedroomprogrammers.net>"]
+
+[dependencies]
+actix = "0.6"
+actix-web = "0.6"
