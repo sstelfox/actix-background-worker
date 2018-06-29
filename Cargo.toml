@@ -4,5 +4,7 @@ version = "0.1.0"
 authors = ["Sam Stelfox <sstelfox@bedroomprogrammers.net>"]
 
 [dependencies]
-actix = "0.6"
+actix = "0.5"
 actix-web = "0.6"
+env_logger = "0.5"
+log = "0.4"
