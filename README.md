@@ -1,4 +1,4 @@
 # Actix Background Worker
 
-To any random stranger finding this, this was a minimal example demonstrating
-an issue I was having.
+A small example utilizing actix-web to trigger a longer running background
+task.
